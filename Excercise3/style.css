@@ -1,0 +1,24 @@
+html {
+    background-image: url(img/image4.jpg);
+    background-size: contain;
+}
+
+p { 
+    font-size: 18px;
+    background-color: violet;
+    color: yellow;
+}
+p1 {
+    font-size: 22px;
+    color: rgb(0, 89, 255);
+}
+
+a {
+    color: blue;
+}
+
+    a:hover {
+        color: red;
+    }
+
+
